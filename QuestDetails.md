@@ -1,5 +1,5 @@
 # Office Quests
-| Location | Type  | Name | MinLevel | MaxLevel | Penya | ExpAtMinLvl | InvSlots | Items | BeginQuest | NeededItems | ToKill | Description |
+|  | Type  | Name | MinLvl | MaxLvl | +Penya | +Exp | +Slots | +Items | RequiredQuest | ToCollect | ToKill | Description |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- | -- |
 | Flaris |  |  |  |  |  |  |  |  |  |  |  |  |
 | [ ] | Main | [Party of Is](https://flyffipedia.com/quests/details/1457) | 7 | 120 | $3.500 | 25% |  |  |  | 3x [Chupim](https://flyffipedia.com/items/details/2981) |  |  |
@@ -81,7 +81,7 @@
 | [ ] | Main | [Bolpor's favor](https://flyffipedia.com/quests/details/3407) | 109 | 120 | $1.000.000 | 21% |  |  |  | 60x [Rincruet](https://flyffipedia.com/items/details/6967) |  |  |
 | [ ] | Main | [Toy Materials](https://flyffipedia.com/quests/details/6001) | 113 | 120 | $1.250.000 | 21% |  |  |  | 60x [Popshift](https://flyffipedia.com/items/details/7755) |  |  |
 # General Quests
-| Location | Type  | Name | MinLevel | MaxLevel | Penya | ExpAtMinLvl | InvSlots | Items | BeginQuest | NeededItems | ToKill | Description |
+|  | Type  | Name | MinLvl | MaxLvl | +Penya | +Exp | +Slots | +Items | RequiredQuest | ToCollect | ToKill | Description |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- | -- |
 | Flaris |  |  |  |  |  |  |  |  |  |  |  |  |
 | [ ] | Main | [Welcome to Madrigal!](https://flyffipedia.com/quests/details/5385) | 1 | 120 | $500 | 29% |  |  |  |  |  |  |
@@ -146,7 +146,7 @@
 | [ ] | Main | [Existence which Desire Summoned](https://flyffipedia.com/quests/details/5260) | 70 | 120 |  | 21% |  | 1x [Mon-Book 1](https://flyffipedia.com/items/details/865) |  |  |  |  |
 | [ ] | > Sub 1 | [Great Clockworks War - 1st](https://flyffipedia.com/quests/details/1021) | 70 | 120 |  | - |  | 1x [Mon-Book 2](https://flyffipedia.com/items/details/727) | Existence which Desire Summoned | 1x [Mon-Book 1](https://flyffipedia.com/items/details/865), 5x [War Remenant](https://flyffipedia.com/items/details/5636) |  |  |
 # Dungeon Quests
-| Location | Type  | Name | MinLevel | MaxLevel | Penya | ExpAtMinLvl | InvSlots | Items | BeginQuest | NeededItems | ToKill | Description |
+|  | Type  | Name | MinLvl | MaxLvl | +Penya | +Exp | +Slots | +Items | RequiredQuest | ToCollect | ToKill | Description |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- | -- |
 | Mars Dungeon |  |  |  |  |  |  |  |  |  |  |  |  |
 | [ ] | Main | [Sound which calls the Dark](https://flyffipedia.com/quests/details/4852) | 20 | 120 |  | 11% |  |  |  |  |  |  |
@@ -175,21 +175,21 @@
 | [ ] | > Sub 12 | [Bloody corridor](https://flyffipedia.com/quests/details/6397) | 85 | 120 |  | 17% | +1 |  | ID card (2) | 30x [Blood Trillipy Shell](https://flyffipedia.com/items/details/1061) | 20x [Mutant Keakoon Worker](https://flyffipedia.com/monsters/details/8929) |  |
 | [ ] | > Sub 13 | [The bottom of the mine](https://flyffipedia.com/quests/details/5082) | 85 | 120 |  | 31% | +1 |  | Bloody corridor | 50x [Blood Trillipy Shell](https://flyffipedia.com/items/details/1061) | 50x [Mutant Keakoon Worker](https://flyffipedia.com/monsters/details/8929) |  |
 # Journal Quests
-| Location | Type  | Name | MinLevel | MaxLevel | Penya | ExpAtMinLvl | InvSlots | Items | BeginQuest | NeededItems | ToKill | Description |
+|  | Type  | Name | MinLvl | MaxLvl | +Penya | +Exp | +Slots | +Items | RequiredQuest | ToCollect | ToKill | Description |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- | -- |
 | Journal |  |  |  |  |  |  |  |  |  |  |  |  |
 | [ ] | Main | [Journal of an Adventurer (1)](https://flyffipedia.com/quests/details/3398) | 105 | 120 | $100.000 | 3% |  |  |  | 1x [Diary of adventurer](https://flyffipedia.com/items/details/6005) |  |  |
 | [ ] | > Sub 1 | [Journal of an Adventurer (2)](https://flyffipedia.com/quests/details/5829) | 105 | 120 | $119.000 | 3% |  |  | Journal of an Adventurer (1) |  |  |  |
 | [ ] | > Sub 2 | [Journal of an Adventurer (3)](https://flyffipedia.com/quests/details/7310) | 105 | 120 | $142.000 | 3% | +3 |  | Journal of an Adventurer (2) |  |  |  |
 # Prologue Quests
-| Location | Type  | Name | MinLevel | MaxLevel | Penya | ExpAtMinLvl | InvSlots | Items | BeginQuest | NeededItems | ToKill | Description |
+|  | Type  | Name | MinLvl | MaxLvl | +Penya | +Exp | +Slots | +Items | RequiredQuest | ToCollect | ToKill | Description |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- | -- |
 | Prologue |  |  |  |  |  |  |  |  |  |  |  |  |
 | [ ] | Main | [Questioning](https://flyffipedia.com/quests/details/8169) | 20 | 120 |  | - |  |  |  | 1x [Scholarship Application](https://flyffipedia.com/items/details/4597) |  |  |
 | [ ] | > Sub 1 | [Cracked Continent](https://flyffipedia.com/quests/details/2920) | 20 | 120 |  | - |  | 1x [Proof of Continent Division](https://flyffipedia.com/items/details/3986) | Questioning | 5x [Stone Piece of Flaris](https://flyffipedia.com/items/details/1777), 5x [Stone Piece of Saint Morning](https://flyffipedia.com/items/details/9096), 5x [Stone Piece of Darkon](https://flyffipedia.com/items/details/2890) |  |  |
 | [ ] | > Sub 2 | [Plot Begins](https://flyffipedia.com/quests/details/618) | 20 | 120 | $12.500 | 17% | +3 | 1x [Recommendation of Gothante](https://flyffipedia.com/items/details/5347) | Cracked Continent |  |  |  |
 # Book 1 Quests
-| Location | Type  | Name | MinLevel | MaxLevel | Penya | ExpAtMinLvl | InvSlots | Items | BeginQuest | NeededItems | ToKill | Description |
+|  | Type  | Name | MinLvl | MaxLvl | +Penya | +Exp | +Slots | +Items | RequiredQuest | ToCollect | ToKill | Description |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- | -- |
 | Chapter 1 The Emerging Darkness |  |  |  |  |  |  |  |  |  |  |  |  |
 | [ ] | Main | [Initiation of Champions](https://flyffipedia.com/quests/details/9598) | 15 | 120 |  | 17% |  |  |  |  | 10x [Lawolf](https://flyffipedia.com/monsters/details/9998), 5x [Grownup Lawolf](https://flyffipedia.com/monsters/details/5571) |  |
@@ -295,7 +295,7 @@
 | [ ] | > Sub 18 | [To the Real Owner](https://flyffipedia.com/quests/details/7869) | 100 | 120 |  | 14% |  | 1x [Necklace +5 Box](https://flyffipedia.com/items/details/8565) | Reclaiming the Pendant | 1x [Hero's Pendant](https://flyffipedia.com/items/details/1505) |  |  |
 | [ ] | > Sub 19 | [Billposter Hero's Pendant](https://flyffipedia.com/quests/details/5674) | 100 | 120 | $500.000 | 25% |  | 5x [Scroll of SProtect](https://flyffipedia.com/items/details/2527), 3x [Scroll of GProtect](https://flyffipedia.com/items/details/3945), 5x [Power Dice Box](https://flyffipedia.com/items/details/8219) | To the Real Owner | 1x [Hero's Pendant](https://flyffipedia.com/items/details/1505) |  |  |
 # Book 2 Quests
-| Location | Type  | Name | MinLevel | MaxLevel | Penya | ExpAtMinLvl | InvSlots | Items | BeginQuest | NeededItems | ToKill | Description |
+|  | Type  | Name | MinLvl | MaxLvl | +Penya | +Exp | +Slots | +Items | RequiredQuest | ToCollect | ToKill | Description |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- | -- |
 | Chapter 1 The Field of Bubble |  |  |  |  |  |  |  |  |  |  |  |  |
 | [ ] | Main (Ext) | [Chapter 1 The Field of Bubble](https://flyffipedia.com/quests/details/1696) | 20 | 120 |  | - |  |  | Plot Begins | 1x [Proof of Continent Division](https://flyffipedia.com/items/details/3986), 1x [Recommendation of Gothante](https://flyffipedia.com/items/details/5347) |  |  |
